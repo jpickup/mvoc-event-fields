@@ -1,2 +1,2 @@
-# mvoc-event-distance
-Custom distance field for the Events Calendar
+# mvoc-event-fields
+Custom fields for the Events Calendar
